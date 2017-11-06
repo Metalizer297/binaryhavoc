@@ -1,2 +1,1 @@
-# ws_binaryhavoc
-Website for learning and trying things
+### First Entry!
